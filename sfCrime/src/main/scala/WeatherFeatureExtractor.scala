@@ -11,7 +11,7 @@ import scala.io.Source
 import scala.util.{Failure, Success, Try}
 
 /**
-  * Created by RahulAravind on 5/3/2017.
+  * Created by kunal krishna on 5/3/2017.
   */
 
 sealed trait WeatherEnum {
